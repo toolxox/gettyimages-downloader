@@ -1,5 +1,3 @@
-# gettyimages-downloader
-
 # Getty Images Downloader
 
 Getty Images Downloader is a free online tool for processing Getty Images URLs and accessing available image information. It provides a simple, browser-based interface that makes working with Getty Images links quick and convenient.
