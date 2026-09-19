@@ -24,9 +24,12 @@ Getty Images Downloader is a free online tool for processing Getty Images URLs a
 The online version of Getty Images Downloader is available here:
 
 **Free Getty Images Downloader:**
-https://gettyimages-downloader.beatsnoop.com
-https://toolxox.com/site/gettyimages-downloader.php
-https://fetchpik.com/gettyimages-downloader.php
-https://removewatermark.xyz/gettyimages-downloader.php
+https://gettyimages-downloader.beatsnoop.com  
+
+https://toolxox.com/site/gettyimages-downloader.php  
+
+https://fetchpik.com/gettyimages-downloader.php  
+
+https://removewatermark.xyz/gettyimages-downloader.php  
 
 This project is provided for educational and informational purposes. Check the repository license for applicable terms.
