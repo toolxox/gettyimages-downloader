@@ -32,5 +32,3 @@ https://toolxox.com/site/gettyimages-downloader.php
 https://fetchpik.com/gettyimages-downloader.php  
 
 https://removewatermark.xyz/gettyimages-downloader.php  
-
-This project is provided for educational and informational purposes. Check the repository license for applicable terms.
