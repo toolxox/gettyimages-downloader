@@ -23,7 +23,8 @@ Getty Images Downloader is a free online tool for processing Getty Images URLs a
 
 The online version of Getty Images Downloader is available here:
 
-**Free Getty Images Downloader:**
+**Free Getty Images Downloader:**  
+
 https://gettyimages-downloader.beatsnoop.com  
 
 https://toolxox.com/site/gettyimages-downloader.php  
